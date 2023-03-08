@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61587458.css",
+    "main.js": "/static/js/main.d91b87e7.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-main.jpg": "/static/media/home-main.e4b90a5e2f9e195f0fa6.jpg",
+    "static/media/about.jpg": "/static/media/about.cda723c4c38a51cbca10.jpg",
+    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/Shalaka_TechnicalWriter.pdf": "/static/media/Shalaka_TechnicalWriter.193775cd003313ddae57.pdf",
+    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/AdobeExperienceManager.png": "/static/media/AdobeExperienceManager.39f072f547f71f265d67.png",
+    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/avatar.svg": "/static/media/avatar.d99bb06fc68fbfbe77858ece3257c789.svg",
+    "static/media/RWS.png": "/static/media/RWS.d6cb5ff48afe6cae0876.png",
+    "static/media/Adobe_FrameMaker_icon.png": "/static/media/Adobe_FrameMaker_icon.aceaed618cf42909757d.png",
+    "static/media/ditaicon.png": "/static/media/ditaicon.5301c6bd7357925ce210.png",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.61587458.css.map": "/static/css/main.61587458.css.map",
+    "main.d91b87e7.js.map": "/static/js/main.d91b87e7.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61587458.css",
+    "static/js/main.d91b87e7.js"
+  ]
+}
